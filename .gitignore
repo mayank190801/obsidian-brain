@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Obsidian transient workspace state & trash
+.trash/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Private / untracked vault folders
+1 - Rough Notes/
+
+# Temporarily ignored: iCloud-evicted (dataless) notes pending local download
+7 - Main Notes/Bit Manipulation DSA.md
+7 - Main Notes/Cheapest Flights Within K Stops (Good).md
+7 - Main Notes/Children Sum Property (Good).md
+7 - Main Notes/Flatten Binary Tree To Linked List (Good).md
+7 - Main Notes/LC 2220 (min bit flips).md
+7 - Main Notes/Lowest Common Ancestor (Good).md
+7 - Main Notes/Rain Water Problem (GOOD).md
